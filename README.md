@@ -24,7 +24,6 @@ For more information about IMS Global and the CASA Task Force, please see http:/
 
 There are several public CASA instances out in the wild.
 
-* IMS Global: https://casa.imsglobal.org
 * Paul Gray: http://casa.paulgray.net/
 * Sakai: https://github.com/sakaiproject/sakai/blob/master/basiclti/docs/CASA.md
 * UCLA: https://apps.ucla.edu
